@@ -25,10 +25,6 @@ The File Organizer is a Python script designed to help you manage and organize f
    git clone https://github.com/yourusername/utility-showcase.git
    cd utility-showcase/file-organizer
    ```
-2. Install any required Python packages (none are needed for the base version, but you can install optional tools like `tqdm` if progress bars are added):
-   ```bash
-   pip install tqdm
-   ```
 
 ---
 
