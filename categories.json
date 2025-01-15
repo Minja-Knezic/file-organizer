@@ -1,0 +1,5 @@
+{
+    "Images": [".jpg", ".png"],
+    "Scripts": [".py", ".js"],
+    "Videos": [".mp4", ".mov"]
+}
