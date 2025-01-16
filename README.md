@@ -22,7 +22,7 @@ The File Organizer is a Python script designed to help you manage and organize f
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/utility-showcase.git
+   git clone https://github.com/Minja-Knezic/file-organizer.git
    cd utility-showcase/file-organizer
    ```
 
