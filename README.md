@@ -104,8 +104,6 @@ Moved file3.mp3 to /Music.
    - Double-check the directory path entered.
    - Ensure the directory exists.
 
-3. **Empty Directories**:
-   - The script will notify you if no files are found to organize.
 
 ---
 
