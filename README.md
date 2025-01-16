@@ -86,9 +86,9 @@ To customize the file categories, create or edit the `categories.json` file in t
 ### **Log File Example**:
 If logging is enabled, a log file (e.g., `log_2025-01-06_12-00-00.txt`) is created with details:
 ```
-[2025-01-06 12:00:01] Moved file1.jpg to /Images.
-[2025-01-06 12:00:02] Moved file2.pdf to /Documents.
-[2025-01-06 12:00:03] Moved file3.mp3 to /Music.
+Moved file1.jpg to /Images.
+Moved file2.pdf to /Documents.
+Moved file3.mp3 to /Music.
 ```
 
 ---
